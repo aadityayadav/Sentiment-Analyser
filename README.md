@@ -14,6 +14,6 @@ I learned data cleaning and basic AI model development
 ## What's next for Sentiment Analyzer
 It can be made better by effective data cleaning and removal of ineffective stop words
 ##Content
-training_judgement.csv was used to train the model
+training_data.csv was used to train the model
 contestant_judgment.csv was used for generating sentiment values
-contestant_judgement_analysed.csv has the generated results from from the AI model
+contestant_judgement_analysis.csv has the generated results from from the AI model
